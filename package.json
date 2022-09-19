@@ -1,10 +1,14 @@
 {
-  "name": "cc-util",
+  "name": "pk-util",
   "version": "1.0.0",
-  "description": "",
+  "description": "test publish util",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siwei1/cc-util.git"
   },
   "keywords": [],
   "author": "pk_boom",
